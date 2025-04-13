@@ -6,5 +6,12 @@
 - CSS
 - Git e GitHub
 - (Em breve) JavaScript
+
+ <div>
+  <a href="https://github.com/arthurrodriguessdev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrodrigues&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
   
 > _"A mudança está no hoje."_
