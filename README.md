@@ -25,5 +25,7 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/8254305851688872/hi.gif">
 </div>
 
+
+
   
 > _"A mudança está no hoje."_
