@@ -1,4 +1,4 @@
-# E aí, beleza? Meu nome é Arthur Rodrigues, seja bem vindo!
+# E aí, tudo bem? Meu nome é Arthur Rodrigues, seja bem vindo!
 
 🔭 Atualmente, faço faculdade de Sistemas de Informação e estou aprendendo algumas tecnologias de desenvolvimento front-end.
 ## 📘 Tecnologias que estou aprendendo:
