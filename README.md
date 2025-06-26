@@ -1,11 +1,12 @@
 # E aí, tudo bem? Meu nome é Arthur Rodrigues, seja bem vindo!
 
 🔭 Atualmente, faço faculdade de Sistemas de Informação e estou aprendendo algumas tecnologias de desenvolvimento front-end.
-## 📘 Tecnologias que estou aprendendo:
+## 📘 Tecnologias:
+- Java
 - HTML
 - CSS
 - Git e GitHub
-- (Em breve) JavaScript
+- Python
 
 <div>
   <a href="https://github.com/arthurrodriguessdev">
