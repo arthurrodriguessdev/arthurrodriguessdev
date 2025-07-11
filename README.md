@@ -7,6 +7,7 @@
 - CSS
 - Git e GitHub
 - Python
+- Django
 
 <div>
   <a href="https://github.com/arthurrodriguessdev">
