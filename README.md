@@ -1,4 +1,5 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br>Desenvolvedor apaixonado por transformar desafios complexos em soluções criativas e eficientes. Valorizo o equilíbrio entre habilidades técnicas e colaboração em equipe, sempre buscando somar com entregas de qualidade e crescimento conjunto.</p>&nbsp;
+<h2 align="center">Seja bem vindo!</h2>
+<p align="center">Desenvolvedor apaixonado por transformar desafios complexos em soluções criativas e eficientes. Valorizo o equilíbrio entre habilidades técnicas e colaboração em equipe, sempre buscando somar com entregas de qualidade e crescimento conjunto.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=arthurrodriguessdev&theme=radical&mode=weekly" />
