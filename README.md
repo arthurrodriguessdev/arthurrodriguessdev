@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem vindo!</h1>
+<h1 align="center">Seja bem vindo!<br/></h1>
 <p align="center"><br/>Desenvolvedor apaixonado por transformar desafios complexos em soluções criativas e eficientes. Valorizo o equilíbrio entre habilidades técnicas e colaboração em equipe, sempre buscando somar com entregas de qualidade e crescimento conjunto.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
