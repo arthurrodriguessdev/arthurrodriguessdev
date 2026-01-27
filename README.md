@@ -1,5 +1,5 @@
-<h1 align="center">Seja bem vindo!<br/></h1>
-<p align="center"><br/>Desenvolvedor apaixonado por transformar desafios complexos em soluções criativas e eficientes. Valorizo o equilíbrio entre habilidades técnicas e colaboração em equipe, sempre buscando somar com entregas de qualidade e crescimento conjunto.</p>&nbsp;
+# Arthur Rodrigues
+### Desenvolvedor de Software com experiência profissional em desenvolvimento web utilizando Python e Django, especializado na criação e consumo de APIs REST e movido por aprendizado contínuo.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=arthurrodriguessdev&theme=radical&mode=weekly" />
