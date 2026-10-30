@@ -9,5 +9,5 @@ Backend Software Developer with 2+ years of experience building and maintaining 
 ### 🧰 Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,python,django,angular,postgres,git,github,linux" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,python,django,react,postgres,git,github,postman,kafka" alt="Languages and Tools" />
 </p>
